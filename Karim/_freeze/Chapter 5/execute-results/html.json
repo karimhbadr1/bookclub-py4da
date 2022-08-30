@@ -1,0 +1,11 @@
+{
+  "hash": "96f4aab3167915733af3e77124094e9b",
+  "result": {
+    "markdown": "# Chapter 5: Getting Started with Pandas\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\nimport pandas as pd\n```\n:::\n\n\n::: {.cell execution_count=2}\n``` {.python .cell-code}\nfrom pandas import Series, DataFrame\n```\n:::\n\n\n## Introduction to Pandas Data Structures\n\n",
+    "supporting": [
+      "Chapter 5_files/figure-html"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
