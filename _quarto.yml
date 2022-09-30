@@ -25,15 +25,18 @@ book:
         - 02_video.qmd
     - part: 03_main.qmd
       chapters:
+        - 03_notes.qmd
         - 03_video.qmd
     - part: 04_main.qmd
       chapters:
         - 04_video.qmd
     - part: 05_main.qmd
       chapters:
+        - 05_notes.qmd
         - 05_video.qmd
     - part: 06_main.qmd
       chapters:
+        - 06_notes.qmd
         - 06_video.qmd
     - part: 07_main.qmd
       chapters:
@@ -66,4 +69,4 @@ format:
     fontsize: 16pt
 
 execute:
-  freeze: auto
+  freeze: true
